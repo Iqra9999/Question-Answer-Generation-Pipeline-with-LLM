@@ -24,10 +24,8 @@ If your CSV file contains multiple columns and you want to generate question-ans
 # Project Structure
 The project is structured as follows:
 
-## file_preprocessing.py: 
-Contains the script for merging multiple CSV files and preprocessing them.
-## question_generation.py: 
-Includes the script for generating question-answer pairs from text data.
+## Question-generation-LLM.ipynb: 
+This file contains the script for merging multiple CSV files, preprocessing them, and generating question-answer pairs from text data.
 ## requirements.txt: 
 Lists the required Python packages for easy installation.
 
