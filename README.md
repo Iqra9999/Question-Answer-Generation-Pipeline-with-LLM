@@ -21,6 +21,16 @@ You can easily run the script with your own CSV files containing text data. Ensu
 After merging your CSV files, you can generate question-answer pairs using the Mistral 7-B language model.
 
 If your CSV file contains multiple columns and you want to generate question-answer pairs from specific columns, you can preprocess your data accordingly. 
+# Project Structure
+The project is structured as follows:
+
+## file_preprocessing.py: 
+Contains the script for merging multiple CSV files and preprocessing them.
+## question_generation.py: 
+Includes the script for generating question-answer pairs from text data.
+## requirements.txt: 
+Lists the required Python packages for easy installation.
+
 # Contributions
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 # License
